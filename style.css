@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div#navbarNavAltMarkup {
+    flex: inherit !important;
+}
+a.nav-link {
+    padding: 0px 24px !important;
+}
+.headerBg {
+    background-image: url(./img/bg-hedar.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.headerSection {
+    height: 600px;
+    width: 100%;
+}
+.headerCustom {
+    height: 500px;
+}
+.headerCustom h1 {
+    padding-bottom: 25px;
+}
+.headerCustom p {
+    font-size: 13px;
+    width: 600px;
+    color: gray;
+    padding-bottom: 16px;
+}
+.headerCustom button {
+    border: none;
+    background: white;
+    border-radius: 11px;
+    padding: 3px 20px;
+    color: #FFA041;
+    font-weight: 500;
+    box-shadow: 3px 5px 9px #00000030;
+    font-size: 16px;
+}
+.headerCustom img.img-fluid {
+    width: 72%;
+}
