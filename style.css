@@ -84,3 +84,11 @@ section.customArrow.row {
 .arrowImg2 {
     left: 20px;
 }
+.secMar {
+    top: 100px;
+    position: relative;
+}
+.secMar2 {
+    top: 150px;
+    position: relative;
+}
