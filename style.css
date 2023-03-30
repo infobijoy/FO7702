@@ -42,3 +42,45 @@ a.nav-link {
 .headerCustom img.img-fluid {
     width: 72%;
 }
+.sec2 {
+    margin-top: 90px;
+}
+.sec2 h1 {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.sec2 h5.card-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 15px;
+}
+.sec2 p.card-text {
+    text-align: center;
+    width: 180px;
+    margin: auto;
+    font-size: 14px;
+}
+.sec2 img.card-img-top {
+    width: 100px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.sec2Row {
+    margin-top: 50px;
+}
+.sec2 .card {
+    border: none;
+}
+section.customArrow.row {
+    position: relative;
+    bottom: 185px;
+}
+.customArrow .arrowImg {
+    position: relative;
+    margin-left: -22px;
+}
+.arrowImg2 {
+    left: 20px;
+}
