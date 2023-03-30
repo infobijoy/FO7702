@@ -92,3 +92,13 @@ section.customArrow.row {
     top: 150px;
     position: relative;
 }
+.card2 {
+    top: 140px;
+    position: relative;
+}
+.card2 img {
+    width: 210px !important;
+}
+.card2 .sec2Row {
+    margin-top: 35px !important;
+}
